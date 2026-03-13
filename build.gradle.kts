@@ -3,12 +3,6 @@ plugins {
     id("org.jetbrains.kotlin.android") version "1.9.23"
 }
 
-repositories {
-    google()
-    mavenCentral()
-    maven { url = uri("https://jitpack.io") }
-}
-
 android {
     compileSdk = 34
     namespace = "eu.kanade.tachiyomi.extension.all.rawlazy"
