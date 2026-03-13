@@ -1,0 +1,566 @@
+<div class="vstack gap-3 top_sidebar">
+                            <div class="entry d-flex align-items-center gap-2 position-relative">
+                    <img src="https://rawlazy.io/wp-content/uploads/2020/12/64.jpg" alt="ブルーロック (Raw - Free)" style="width: 80px; aspect-ratio: 0.9;" class="shadow-sm rounded flex-shrink-0">
+                    <div class="vstack gap-1 justify-content-center">
+                        <p class="rank font-bold text-primary font-12x">01.</p>
+                        <h4 class="name font-9x lh-12 font-medium max-3-lines"><a title="ブルーロック (Raw - Free)" class="stretched-link" href="https://rawlazy.io/manga-lazy/%e3%83%96%e3%83%ab%e3%83%bc%e3%83%ad%e3%83%83%e3%82%af-raw-free/">ブルーロック (Raw - Free)</a></h4>
+                    </div>
+                </div>
+                            <div class="entry d-flex align-items-center gap-2 position-relative">
+                    <img src="https://rawlazy.io/wp-content/uploads/2020/12/2278.jpg" alt="バトルスタディーズ (Raw - Free)" style="width: 80px; aspect-ratio: 0.9;" class="shadow-sm rounded flex-shrink-0">
+                    <div class="vstack gap-1 justify-content-center">
+                        <p class="rank font-bold text-primary font-12x">02.</p>
+                        <h4 class="name font-9x lh-12 font-medium max-3-lines"><a title="バトルスタディーズ (Raw - Free)" class="stretched-link" href="https://rawlazy.io/manga-lazy/%e3%83%90%e3%83%88%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%87%e3%82%a3%e3%83%bc%e3%82%ba-raw-free/">バトルスタディーズ (Raw - Free)</a></h4>
+                    </div>
+                </div>
+                            <div class="entry d-flex align-items-center gap-2 position-relative">
+                    <img src="https://rawlazy.io/wp-content/uploads/2020/12/37.jpg" alt="彼女、お借りします (Raw - Free)" style="width: 80px; aspect-ratio: 0.9;" class="shadow-sm rounded flex-shrink-0">
+                    <div class="vstack gap-1 justify-content-center">
+                        <p class="rank font-bold text-primary font-12x">03.</p>
+                        <h4 class="name font-9x lh-12 font-medium max-3-lines"><a title="彼女、お借りします (Raw - Free)" class="stretched-link" href="https://rawlazy.io/manga-lazy/%e5%bd%bc%e5%a5%b3-%e3%81%8a%e5%80%9f%e3%82%8a%e3%81%97%e3%81%be%e3%81%99-raw-free/">彼女、お借りします (Raw - Free)</a></h4>
+                    </div>
+                </div>
+                            <div class="entry d-flex align-items-center gap-2 position-relative">
+                    <img src="https://rawlazy.io/wp-content/uploads/2020/12/2993-1.jpg" alt="こういうのがいい (Raw - Free)" style="width: 80px; aspect-ratio: 0.9;" class="shadow-sm rounded flex-shrink-0">
+                    <div class="vstack gap-1 justify-content-center">
+                        <p class="rank font-bold text-primary font-12x">04.</p>
+                        <h4 class="name font-9x lh-12 font-medium max-3-lines"><a title="こういうのがいい (Raw - Free)" class="stretched-link" href="https://rawlazy.io/manga-lazy/%e3%81%93%e3%81%86%e3%81%84%e3%81%86%e3%81%ae%e3%81%8c%e3%81%84%e3%81%84-raw-free/">こういうのがいい (Raw - Free)</a></h4>
+                    </div>
+                </div>
+                            <div class="entry d-flex align-items-center gap-2 position-relative">
+                    <img src="https://rawlazy.io/wp-content/uploads/2023/04/abc-1-34.webp" alt="だれでも抱けるキミが好き (Raw – Free)" style="width: 80px; aspect-ratio: 0.9;" class="shadow-sm rounded flex-shrink-0">
+                    <div class="vstack gap-1 justify-content-center">
+                        <p class="rank font-bold text-primary font-12x">05.</p>
+                        <h4 class="name font-9x lh-12 font-medium max-3-lines"><a title="だれでも抱けるキミが好き (Raw – Free)" class="stretched-link" href="https://rawlazy.io/manga-lazy/%e3%81%a0%e3%82%8c%e3%81%a7%e3%82%82%e6%8a%b1%e3%81%91%e3%82%8b%e3%82%ad%e3%83%9f%e3%81%8c%e5%a5%bd%e3%81%8d-raw-free/">だれでも抱けるキミが好き (Raw – Free)</a></h4>
+                    </div>
+                </div>
+                            <div class="entry d-flex align-items-center gap-2 position-relative">
+                    <img src="https://rawlazy.io/wp-content/uploads/2020/12/4331.jpg" alt="ギルティサークル (Raw – Free)" style="width: 80px; aspect-ratio: 0.9;" class="shadow-sm rounded flex-shrink-0">
+                    <div class="vstack gap-1 justify-content-center">
+                        <p class="rank font-bold text-primary font-12x">06.</p>
+                        <h4 class="name font-9x lh-12 font-medium max-3-lines"><a title="ギルティサークル (Raw – Free)" class="stretched-link" href="https://rawlazy.io/manga-lazy/%e3%82%ae%e3%83%ab%e3%83%86%e3%82%a3%e3%82%b5%e3%83%bc%e3%82%af%e3%83%ab-raw-free/">ギルティサークル (Raw – Free)</a></h4>
+                    </div>
+                </div>
+                            <div class="entry d-flex align-items-center gap-2 position-relative">
+                    <img src="https://rawlazy.io/wp-content/uploads/2020/12/370.jpg" alt="キングダム (Raw - Free)" style="width: 80px; aspect-ratio: 0.9;" class="shadow-sm rounded flex-shrink-0">
+                    <div class="vstack gap-1 justify-content-center">
+                        <p class="rank font-bold text-primary font-12x">07.</p>
+                        <h4 class="name font-9x lh-12 font-medium max-3-lines"><a title="キングダム (Raw - Free)" class="stretched-link" href="https://rawlazy.io/manga-lazy/%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%80%e3%83%a0-raw-free/">キングダム (Raw - Free)</a></h4>
+                    </div>
+                </div>
+                            <div class="entry d-flex align-items-center gap-2 position-relative">
+                    <img src="https://rawlazy.io/wp-content/uploads/2020/12/4054.jpg" alt="アオのハコ (Raw – Free)" style="width: 80px; aspect-ratio: 0.9;" class="shadow-sm rounded flex-shrink-0">
+                    <div class="vstack gap-1 justify-content-center">
+                        <p class="rank font-bold text-primary font-12x">08.</p>
+                        <h4 class="name font-9x lh-12 font-medium max-3-lines"><a title="アオのハコ (Raw – Free)" class="stretched-link" href="https://rawlazy.io/manga-lazy/%e3%82%a2%e3%82%aa%e3%81%ae%e3%83%8f%e3%82%b3-raw-free/">アオのハコ (Raw – Free)</a></h4>
+                    </div>
+                </div>
+                            <div class="entry d-flex align-items-center gap-2 position-relative">
+                    <img src="https://rawlazy.io/wp-content/uploads/2023/08/00727.jpg" alt="瓜を破る (Raw – Free)" style="width: 80px; aspect-ratio: 0.9;" class="shadow-sm rounded flex-shrink-0">
+                    <div class="vstack gap-1 justify-content-center">
+                        <p class="rank font-bold text-primary font-12x">09.</p>
+                        <h4 class="name font-9x lh-12 font-medium max-3-lines"><a title="瓜を破る (Raw – Free)" class="stretched-link" href="https://rawlazy.io/manga-lazy/%e7%93%9c%e3%82%92%e7%a0%b4%e3%82%8b-raw-free/">瓜を破る (Raw – Free)</a></h4>
+                    </div>
+                </div>
+                            <div class="entry d-flex align-items-center gap-2 position-relative">
+                    <img src="https://rawlazy.io/wp-content/uploads/2020/12/2998-1.jpg" alt="弱虫ペダル (Raw - Free)" style="width: 80px; aspect-ratio: 0.9;" class="shadow-sm rounded flex-shrink-0">
+                    <div class="vstack gap-1 justify-content-center">
+                        <p class="rank font-bold text-primary font-12x">10.</p>
+                        <h4 class="name font-9x lh-12 font-medium max-3-lines"><a title="弱虫ペダル (Raw - Free)" class="stretched-link" href="https://rawlazy.io/manga-lazy/%e5%bc%b1%e8%99%ab%e3%83%9a%e3%83%80%e3%83%ab-raw-free/">弱虫ペダル (Raw - Free)</a></h4>
+                    </div>
+                </div>
+                    </div>
+					
+					
+					
+					
+					<div class="row gy-6 row-of-mangas mb-3 mb-lg-6">
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/ch%e7%99%bb%e9%8c%b2%e3%81%8a%e9%a1%98%e3%81%84%e3%81%97%e3%81%be%e3%81%99%ef%bc%81-raw-free/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2026/02/Screenshot_9-1.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="ch登録お願いします！ (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/ch%e7%99%bb%e9%8c%b2%e3%81%8a%e9%a1%98%e3%81%84%e3%81%97%e3%81%be%e3%81%99%ef%bc%81-raw-free/" rel="bookmark">ch登録お願いします！ (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e6%81%8b%e6%84%9b/">恋愛</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%a9%e3%83%96%e3%82%b3%e3%83%a1/">ラブコメ</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%92%e3%83%a5%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%89%e3%83%a9%e3%83%9e/">ヒューマンドラマ</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/ch%e7%99%bb%e9%8c%b2%e3%81%8a%e9%a1%98%e3%81%84%e3%81%97%e3%81%be%e3%81%99%ef%bc%81-raw-%e3%80%90%e7%ac%ac5-1%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第5.1話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/ch%e7%99%bb%e9%8c%b2%e3%81%8a%e9%a1%98%e3%81%84%e3%81%97%e3%81%be%e3%81%99%ef%bc%81-raw-%e3%80%90%e7%ac%ac4-2%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第4.2話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/ch%e7%99%bb%e9%8c%b2%e3%81%8a%e9%a1%98%e3%81%84%e3%81%97%e3%81%be%e3%81%99%ef%bc%81-raw-%e3%80%90%e7%ac%ac4-1%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第4.1話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e5%90%9b%e3%81%8c%e7%9b%a3%e7%9d%a3%ef%bc%81-raw-free/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2025/08/Screenshot_1-7.png" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="君が監督！ (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e5%90%9b%e3%81%8c%e7%9b%a3%e7%9d%a3%ef%bc%81-raw-free/" rel="bookmark">君が監督！ (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%89%e3%83%a9%e3%83%9e/">ドラマ</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84/">スポーツ</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%90%9b%e3%81%8c%e7%9b%a3%e7%9d%a3%ef%bc%81-raw-%e3%80%90%e7%ac%ac20%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第20話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%90%9b%e3%81%8c%e7%9b%a3%e7%9d%a3%ef%bc%81-raw-%e3%80%90%e7%ac%ac19%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第19話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%90%9b%e3%81%8c%e7%9b%a3%e7%9d%a3%ef%bc%81-raw-%e3%80%90%e7%ac%ac18%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第18話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e6%b0%b8%e4%b9%85%e3%81%ae%e3%83%a6%e3%82%a6%e3%82%b0%e3%83%ac-raw-free/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2025/10/03.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="永久のユウグレ (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e6%b0%b8%e4%b9%85%e3%81%ae%e3%83%a6%e3%82%a6%e3%82%b0%e3%83%ac-raw-free/" rel="bookmark">永久のユウグレ (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%82%b3%e3%83%a1%e3%83%87%e3%82%a3/">コメディ</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e6%b0%b8%e4%b9%85%e3%81%ae%e3%83%a6%e3%82%a6%e3%82%b0%e3%83%ac-raw-%e3%80%90%e7%ac%ac17-2%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第17.2話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e6%b0%b8%e4%b9%85%e3%81%ae%e3%83%a6%e3%82%a6%e3%82%b0%e3%83%ac-raw-%e3%80%90%e7%ac%ac17-1%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第17.1話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e6%b0%b8%e4%b9%85%e3%81%ae%e3%83%a6%e3%82%a6%e3%82%b0%e3%83%ac-raw-%e3%80%90%e7%ac%ac16%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第16話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e5%bf%b5%e9%a1%98%e3%81%ae%e6%82%aa%e5%bd%b9%e4%bb%a4%e5%ac%a2%ef%bc%88%e3%83%a9%e3%82%b9%e3%83%9c%e3%82%b9%ef%bc%89%e3%81%ae%e8%ba%ab%e4%bd%93%e3%82%92%e6%89%8b%e3%81%ab%e5%85%a5%e3%82%8c%e3%81%9f/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2023/10/58241.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="念願の悪役令嬢（ラスボス）の身体を手に入れたぞ！ (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e5%bf%b5%e9%a1%98%e3%81%ae%e6%82%aa%e5%bd%b9%e4%bb%a4%e5%ac%a2%ef%bc%88%e3%83%a9%e3%82%b9%e3%83%9c%e3%82%b9%ef%bc%89%e3%81%ae%e8%ba%ab%e4%bd%93%e3%82%92%e6%89%8b%e3%81%ab%e5%85%a5%e3%82%8c%e3%81%9f/" rel="bookmark">念願の悪役令嬢（ラスボス）の身体を手に入れたぞ！ (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%82%b3%e3%83%a1%e3%83%87%e3%82%a3/">コメディ</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%bf%b5%e9%a1%98%e3%81%ae%e6%82%aa%e5%bd%b9%e4%bb%a4%e5%ac%a2%ef%bc%88%e3%83%a9%e3%82%b9%e3%83%9c%e3%82%b9%ef%bc%89%e3%81%ae%e8%ba%ab%e4%bd%93%e3%82%92%e6%89%8b%e3%81%ab%e5%85%a5%e3%82%8c-87/"><i class="bi bi-file-earmark-text-fill"></i> 第87話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%bf%b5%e9%a1%98%e3%81%ae%e6%82%aa%e5%bd%b9%e4%bb%a4%e5%ac%a2%ef%bc%88%e3%83%a9%e3%82%b9%e3%83%9c%e3%82%b9%ef%bc%89%e3%81%ae%e8%ba%ab%e4%bd%93%e3%82%92%e6%89%8b%e3%81%ab%e5%85%a5%e3%82%8c-86/"><i class="bi bi-file-earmark-text-fill"></i> 第86話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%bf%b5%e9%a1%98%e3%81%ae%e6%82%aa%e5%bd%b9%e4%bb%a4%e5%ac%a2%ef%bc%88%e3%83%a9%e3%82%b9%e3%83%9c%e3%82%b9%ef%bc%89%e3%81%ae%e8%ba%ab%e4%bd%93%e3%82%92%e6%89%8b%e3%81%ab%e5%85%a5%e3%82%8c-85/"><i class="bi bi-file-earmark-text-fill"></i> 第85話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e3%82%b0%e3%83%a9%e3%81%b1%e3%82%89%e3%81%a3%ef%bc%81-raw-free/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2023/08/abc-1-4.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="グラぱらっ！ (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e3%82%b0%e3%83%a9%e3%81%b1%e3%82%89%e3%81%a3%ef%bc%81-raw-free/" rel="bookmark">グラぱらっ！ (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%82%b3%e3%83%a1%e3%83%87%e3%82%a3/">コメディ</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%ad%e3%83%9e%e3%83%b3%e3%82%b9/">ロマンス</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%82%b0%e3%83%a9%e3%81%b1%e3%82%89%e3%81%a3%ef%bc%81-raw-%e3%80%90%e7%ac%ac117%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第117話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%82%b0%e3%83%a9%e3%81%b1%e3%82%89%e3%81%a3%ef%bc%81-raw-%e3%80%90%e7%ac%ac116%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第116話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%82%b0%e3%83%a9%e3%81%b1%e3%82%89%e3%81%a3%ef%bc%81-raw-%e3%80%90%e7%ac%ac115%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第115話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/destiny-unchain-online-%e3%80%9c%e5%90%b8%e8%a1%80%e9%ac%bc%e5%b0%91%e5%a5%b3%e3%81%a8%e3%81%aa%e3%81%a3%e3%81%a6%e3%80%81%e3%82%84%e3%81%8c%e3%81%a6%e3%80%8e%e8%b5%a4%e3%81%ae%e9%ad%94%e7%8e%8b/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2022/09/Destiny-Unchain-Online-〜吸血鬼少女となって、やがて『赤の魔王』と呼ばれるようになりました〜.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="Destiny Unchain Online 〜吸血鬼少女となって、やがて『赤の魔王』と呼ばれるようになりました〜 (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/destiny-unchain-online-%e3%80%9c%e5%90%b8%e8%a1%80%e9%ac%bc%e5%b0%91%e5%a5%b3%e3%81%a8%e3%81%aa%e3%81%a3%e3%81%a6%e3%80%81%e3%82%84%e3%81%8c%e3%81%a6%e3%80%8e%e8%b5%a4%e3%81%ae%e9%ad%94%e7%8e%8b/" rel="bookmark">Destiny Unchain Online 〜吸血鬼少女となって、やがて『赤の魔王』と呼ばれるようになりました〜 (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bc/">ファンタジー</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3/">アクション</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/destiny-unchain-online-%e3%80%9c%e5%90%b8%e8%a1%80%e9%ac%bc%e5%b0%91%e5%a5%b3%e3%81%a8%e3%81%aa%e3%81%a3%e3%81%a6%e3%80%81%e3%82%84%e3%81%8c%e3%81%a6%e3%80%8e%e8%b5%a4%e3%81%ae%e9%ad%94%e7%8e%8b-113/"><i class="bi bi-file-earmark-text-fill"></i> 第113話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/destiny-unchain-online-%e3%80%9c%e5%90%b8%e8%a1%80%e9%ac%bc%e5%b0%91%e5%a5%b3%e3%81%a8%e3%81%aa%e3%81%a3%e3%81%a6%e3%80%81%e3%82%84%e3%81%8c%e3%81%a6%e3%80%8e%e8%b5%a4%e3%81%ae%e9%ad%94%e7%8e%8b-112/"><i class="bi bi-file-earmark-text-fill"></i> 第112話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/destiny-unchain-online-%e3%80%9c%e5%90%b8%e8%a1%80%e9%ac%bc%e5%b0%91%e5%a5%b3%e3%81%a8%e3%81%aa%e3%81%a3%e3%81%a6%e3%80%81%e3%82%84%e3%81%8c%e3%81%a6%e3%80%8e%e8%b5%a4%e3%81%ae%e9%ad%94%e7%8e%8b-111/"><i class="bi bi-file-earmark-text-fill"></i> 第111話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e5%b5%90%e3%81%ab%e8%88%9e%e3%81%86%e3%83%97%e3%82%b7%e3%83%a5%e3%82%b1-raw-free/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2020/12/006832_001_01_0001.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="嵐に舞うプシュケ (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e5%b5%90%e3%81%ab%e8%88%9e%e3%81%86%e3%83%97%e3%82%b7%e3%83%a5%e3%82%b1-raw-free/" rel="bookmark">嵐に舞うプシュケ (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e5%b0%91%e5%a5%b3/">少女</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%a9%e3%83%96%e3%82%b3%e3%83%a1/">ラブコメ</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e6%81%8b%e6%84%9b/">恋愛</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%b5%90%e3%81%ab%e8%88%9e%e3%81%86%e3%83%97%e3%82%b7%e3%83%a5%e3%82%b1-raw-%e3%80%90%e7%ac%ac10-2%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第10.2話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%b5%90%e3%81%ab%e8%88%9e%e3%81%86%e3%83%97%e3%82%b7%e3%83%a5%e3%82%b1-raw-%e3%80%90%e7%ac%ac10-1%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第10.1話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%b5%90%e3%81%ab%e8%88%9e%e3%81%86%e3%83%97%e3%82%b7%e3%83%a5%e3%82%b1-raw-%e3%80%90%e7%ac%ac9-2%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第9.2話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e7%8c%ab%e3%81%ab%e7%99%bd%e9%b3%a5%e3%80%81%e8%9b%8d%e3%81%ab%e5%b0%8f%e5%88%a4-raw-free/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2025/08/image_68958743d715f.png" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="猫に白鳥、蛍に小判 (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e7%8c%ab%e3%81%ab%e7%99%bd%e9%b3%a5%e3%80%81%e8%9b%8d%e3%81%ab%e5%b0%8f%e5%88%a4-raw-free/" rel="bookmark">猫に白鳥、蛍に小判 (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%82%b3%e3%83%a1%e3%83%87%e3%82%a3/">コメディ</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%ad%e3%83%9e%e3%83%b3%e3%82%b9/">ロマンス</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%89%e3%83%a9%e3%83%9e/">ドラマ</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e7%8c%ab%e3%81%ab%e7%99%bd%e9%b3%a5%e3%80%81%e8%9b%8d%e3%81%ab%e5%b0%8f%e5%88%a4-raw-%e3%80%90%e7%ac%ac8-1%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第8.1話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e7%8c%ab%e3%81%ab%e7%99%bd%e9%b3%a5%e3%80%81%e8%9b%8d%e3%81%ab%e5%b0%8f%e5%88%a4-raw-%e3%80%90%e7%ac%ac7-2%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第7.2話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e7%8c%ab%e3%81%ab%e7%99%bd%e9%b3%a5%e3%80%81%e8%9b%8d%e3%81%ab%e5%b0%8f%e5%88%a4-raw-%e3%80%90%e7%ac%ac7-1%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第7.1話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e3%81%95%e3%82%8f%e3%82%89%e3%81%aa%e3%81%84%e3%81%a7%e5%b0%8f%e6%89%8b%e6%8c%87%e3%81%8f%e3%82%93-raw-free/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2020/12/4353.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="さわらないで小手指くん (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e3%81%95%e3%82%8f%e3%82%89%e3%81%aa%e3%81%84%e3%81%a7%e5%b0%8f%e6%89%8b%e6%8c%87%e3%81%8f%e3%82%93-raw-free/" rel="bookmark">さわらないで小手指くん (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e5%b7%a8%e4%b9%b3/">巨乳</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%82%ae%e3%83%a3%e3%82%b0%e3%83%bb%e3%82%b3%e3%83%a1%e3%83%87%e3%82%a3/">ギャグ・コメディ</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e5%ad%a6%e5%9c%92/">学園</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%81%95%e3%82%8f%e3%82%89%e3%81%aa%e3%81%84%e3%81%a7%e5%b0%8f%e6%89%8b%e6%8c%87%e3%81%8f%e3%82%93-raw-%e3%80%90%e7%ac%ac137%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第137話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%81%95%e3%82%8f%e3%82%89%e3%81%aa%e3%81%84%e3%81%a7%e5%b0%8f%e6%89%8b%e6%8c%87%e3%81%8f%e3%82%93-raw-%e3%80%90%e7%ac%ac136%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第136話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%81%95%e3%82%8f%e3%82%89%e3%81%aa%e3%81%84%e3%81%a7%e5%b0%8f%e6%89%8b%e6%8c%87%e3%81%8f%e3%82%93-raw-%e3%80%90%e7%ac%ac135%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第135話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e4%b8%ad%e8%8f%af%e4%b8%80%e7%95%aa-%e6%a5%b5-raw-free/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2020/12/59.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="中華一番！極 (Raw - Free)"><a href="https://rawlazy.io/manga-lazy/%e4%b8%ad%e8%8f%af%e4%b8%80%e7%95%aa-%e6%a5%b5-raw-free/" rel="bookmark">中華一番！極 (Raw - Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e8%a7%a3%e8%aa%ac/">解説</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%90%e3%83%88%e3%83%ab/">バトル</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96/">アニメ化</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e4%b8%ad%e8%8f%af%e4%b8%80%e7%95%aa%ef%bc%81%e6%a5%b5-raw-%e3%80%90%e7%ac%ac197%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第197話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e4%b8%ad%e8%8f%af%e4%b8%80%e7%95%aa%ef%bc%81%e6%a5%b5-raw-%e3%80%90%e7%ac%ac196%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第196話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e4%b8%ad%e8%8f%af%e4%b8%80%e7%95%aa%ef%bc%81%e6%a5%b5-raw-%e3%80%90%e7%ac%ac195%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第195話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e4%b8%96%e7%95%8c%e6%9c%80%e5%bc%b7%e3%81%ae%e9%ad%94%e5%a5%b3%e3%80%81%e5%a7%8b%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%80%ef%bd%9e%e7%a7%81%e3%81%a0%e3%81%91%e3%80%8e%e6%94%bb%e7%95%a5%e3%82%b5/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2023/05/abc-1-163.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="世界最強の魔女、始めました　～私だけ『攻略サイト』を見れる世界で自由に生きます～ (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e4%b8%96%e7%95%8c%e6%9c%80%e5%bc%b7%e3%81%ae%e9%ad%94%e5%a5%b3%e3%80%81%e5%a7%8b%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%80%ef%bd%9e%e7%a7%81%e3%81%a0%e3%81%91%e3%80%8e%e6%94%bb%e7%95%a5%e3%82%b5/" rel="bookmark">世界最強の魔女、始めました　～私だけ『攻略サイト』を見れる世界で自由に生きます～ (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                    </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e4%b8%96%e7%95%8c%e6%9c%80%e5%bc%b7%e3%81%ae%e9%ad%94%e5%a5%b3%e3%80%81%e5%a7%8b%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%80%ef%bd%9e%e7%a7%81%e3%81%a0%e3%81%91%e3%80%8e%e6%94%bb%e7%95%a5-64/"><i class="bi bi-file-earmark-text-fill"></i> 第64話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e4%b8%96%e7%95%8c%e6%9c%80%e5%bc%b7%e3%81%ae%e9%ad%94%e5%a5%b3%e3%80%81%e5%a7%8b%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%80%ef%bd%9e%e7%a7%81%e3%81%a0%e3%81%91%e3%80%8e%e6%94%bb%e7%95%a5-63/"><i class="bi bi-file-earmark-text-fill"></i> 第63話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e4%b8%96%e7%95%8c%e6%9c%80%e5%bc%b7%e3%81%ae%e9%ad%94%e5%a5%b3%e3%80%81%e5%a7%8b%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%80%ef%bd%9e%e7%a7%81%e3%81%a0%e3%81%91%e3%80%8e%e6%94%bb%e7%95%a5-62/"><i class="bi bi-file-earmark-text-fill"></i> 第62話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e5%b9%b8%e7%a6%8f%e3%81%ae%e3%81%8a%e3%81%84%e3%81%97%e3%81%84%e9%81%93%e3%81%99%e3%81%8c%e3%82%89-raw-free/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2025/08/006845_001_01_0001.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="幸福のおいしい道すがら (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e5%b9%b8%e7%a6%8f%e3%81%ae%e3%81%8a%e3%81%84%e3%81%97%e3%81%84%e9%81%93%e3%81%99%e3%81%8c%e3%82%89-raw-free/" rel="bookmark">幸福のおいしい道すがら (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e7%8f%be%e4%bb%a3/">現代</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%9b%e3%83%93%e3%83%bc/">ホビー</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e6%97%a5%e5%b8%b8%e7%b3%bb/">日常系</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%b9%b8%e7%a6%8f%e3%81%ae%e3%81%8a%e3%81%84%e3%81%97%e3%81%84%e9%81%93%e3%81%99%e3%81%8c%e3%82%89-raw-%e3%80%90%e7%ac%ac9-2%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第9.2話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%b9%b8%e7%a6%8f%e3%81%ae%e3%81%8a%e3%81%84%e3%81%97%e3%81%84%e9%81%93%e3%81%99%e3%81%8c%e3%82%89-raw-%e3%80%90%e7%ac%ac9-1%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第9.1話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%b9%b8%e7%a6%8f%e3%81%ae%e3%81%8a%e3%81%84%e3%81%97%e3%81%84%e9%81%93%e3%81%99%e3%81%8c%e3%82%89-raw-%e3%80%90%e7%ac%ac8%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第8話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e6%8a%80%e5%b7%a7%e8%b2%b8%e4%b8%8e%ef%bc%9c%e3%82%b9%e3%82%ad%e3%83%ab%e3%83%bb%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%ef%bc%9e%e3%81%ae%e3%81%a8%e3%82%8a%e3%81%8b%e3%81%88%e3%81%97%ef%bd%9e%e3%83%88/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2024/04/001-81.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="技巧貸与＜スキル・レンダー＞のとりかえし～トイチって最初に言ったよな？～ (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e6%8a%80%e5%b7%a7%e8%b2%b8%e4%b8%8e%ef%bc%9c%e3%82%b9%e3%82%ad%e3%83%ab%e3%83%bb%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%ef%bc%9e%e3%81%ae%e3%81%a8%e3%82%8a%e3%81%8b%e3%81%88%e3%81%97%ef%bd%9e%e3%83%88/" rel="bookmark">技巧貸与＜スキル・レンダー＞のとりかえし～トイチって最初に言ったよな？～ (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e9%9d%92%e5%b9%b4%e3%83%9e%e3%83%b3%e3%82%ac/">青年マンガ</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e7%95%b0%e4%b8%96%e7%95%8c%e3%83%bb%e8%bb%a2%e7%94%9f/">異世界・転生</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bc/">ファンタジー</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e6%8a%80%e5%b7%a7%e8%b2%b8%e4%b8%8e%ef%bc%9c%e3%82%b9%e3%82%ad%e3%83%ab%e3%83%bb%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%ef%bc%9e%e3%81%ae%e3%81%a8%e3%82%8a%e3%81%8b%e3%81%88%e3%81%97%ef%bd%9e-111/"><i class="bi bi-file-earmark-text-fill"></i> 第109話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e6%8a%80%e5%b7%a7%e8%b2%b8%e4%b8%8e%ef%bc%9c%e3%82%b9%e3%82%ad%e3%83%ab%e3%83%bb%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%ef%bc%9e%e3%81%ae%e3%81%a8%e3%82%8a%e3%81%8b%e3%81%88%e3%81%97%ef%bd%9e-110/"><i class="bi bi-file-earmark-text-fill"></i> 第108話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e6%8a%80%e5%b7%a7%e8%b2%b8%e4%b8%8e%ef%bc%9c%e3%82%b9%e3%82%ad%e3%83%ab%e3%83%bb%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%ef%bc%9e%e3%81%ae%e3%81%a8%e3%82%8a%e3%81%8b%e3%81%88%e3%81%97%ef%bd%9e-109/"><i class="bi bi-file-earmark-text-fill"></i> 第107話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e7%95%b0%e4%b8%96%e7%95%8c%e3%82%89%e3%81%8f%e3%82%89%e3%81%8f%e3%82%b5%e3%83%90%e3%82%a4%e3%83%90%e3%83%ab%ef%bd%9e%e7%94%9f%e5%ad%98%e3%82%b9%e3%82%ad%e3%83%ab%e5%bc%b7%e8%80%85%e3%81%ae%e4%bf%ba/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2023/03/abc-1-115.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="異世界らくらくサバイバル～生存スキル強者の俺が美少女四人と暮らす無人島生活～ (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e7%95%b0%e4%b8%96%e7%95%8c%e3%82%89%e3%81%8f%e3%82%89%e3%81%8f%e3%82%b5%e3%83%90%e3%82%a4%e3%83%90%e3%83%ab%ef%bd%9e%e7%94%9f%e5%ad%98%e3%82%b9%e3%82%ad%e3%83%ab%e5%bc%b7%e8%80%85%e3%81%ae%e4%bf%ba/" rel="bookmark">異世界らくらくサバイバル～生存スキル強者の俺が美少女四人と暮らす無人島生活～ (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%a9%e3%83%96%e3%82%b3%e3%83%a1/">ラブコメ</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e6%88%90%e4%ba%ba%e5%90%91%e3%81%91/">成人向け</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/ecchi/">Ecchi</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e7%95%b0%e4%b8%96%e7%95%8c%e3%82%89%e3%81%8f%e3%82%89%e3%81%8f%e3%82%b5%e3%83%90%e3%82%a4%e3%83%90%e3%83%ab%ef%bd%9e%e7%94%9f%e5%ad%98%e3%82%b9%e3%82%ad%e3%83%ab%e5%bc%b7%e8%80%85%e3%81%ae-78/"><i class="bi bi-file-earmark-text-fill"></i> 第63.1話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e7%95%b0%e4%b8%96%e7%95%8c%e3%82%89%e3%81%8f%e3%82%89%e3%81%8f%e3%82%b5%e3%83%90%e3%82%a4%e3%83%90%e3%83%ab%ef%bd%9e%e7%94%9f%e5%ad%98%e3%82%b9%e3%82%ad%e3%83%ab%e5%bc%b7%e8%80%85%e3%81%ae-77/"><i class="bi bi-file-earmark-text-fill"></i> 第62.2話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e7%95%b0%e4%b8%96%e7%95%8c%e3%82%89%e3%81%8f%e3%82%89%e3%81%8f%e3%82%b5%e3%83%90%e3%82%a4%e3%83%90%e3%83%ab%ef%bd%9e%e7%94%9f%e5%ad%98%e3%82%b9%e3%82%ad%e3%83%ab%e5%bc%b7%e8%80%85%e3%81%ae-76/"><i class="bi bi-file-earmark-text-fill"></i> 第62.1話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e3%81%a6%e3%82%93%e3%81%b7%e3%82%8b-raw-free/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2020/12/298.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="てんぷる (Raw - Free)"><a href="https://rawlazy.io/manga-lazy/%e3%81%a6%e3%82%93%e3%81%b7%e3%82%8b-raw-free/" rel="bookmark">てんぷる (Raw - Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%81%8f%e3%82%89%e3%81%97%e3%83%bb%e7%94%9f%e6%b4%bb/">くらし・生活</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/ecchi/">Ecchi</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%82%b3%e3%83%a1%e3%83%87%e3%82%a3/">コメディ</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%81%a6%e3%82%93%e3%81%b7%e3%82%8b-raw-%e3%80%90%e7%ac%ac132%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第132話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%81%a6%e3%82%93%e3%81%b7%e3%82%8b-raw-%e3%80%90%e7%ac%ac131%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第131話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%81%a6%e3%82%93%e3%81%b7%e3%82%8b-raw-%e3%80%90%e7%ac%ac130%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第130話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e3%82%a8%e3%83%ab%e3%83%95%e3%81%ae%e3%83%a2%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93%e9%ab%98%e6%a0%a1%e7%94%9f-raw-free/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2025/10/image_68e53de170ca8.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="エルフのモンちゃん高校生!! (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e3%82%a8%e3%83%ab%e3%83%95%e3%81%ae%e3%83%a2%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93%e9%ab%98%e6%a0%a1%e7%94%9f-raw-free/" rel="bookmark">エルフのモンちゃん高校生!! (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bc/">ファンタジー</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%82%b3%e3%83%a1%e3%83%87%e3%82%a3/">コメディ</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%82%a8%e3%83%ab%e3%83%95%e3%81%ae%e3%83%a2%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93%e9%ab%98%e6%a0%a1%e7%94%9f-raw-%e3%80%90%e7%ac%ac13%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第13話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%82%a8%e3%83%ab%e3%83%95%e3%81%ae%e3%83%a2%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93%e9%ab%98%e6%a0%a1%e7%94%9f-raw-%e3%80%90%e7%ac%ac12%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第12話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%82%a8%e3%83%ab%e3%83%95%e3%81%ae%e3%83%a2%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93%e9%ab%98%e6%a0%a1%e7%94%9f-raw-%e3%80%90%e7%ac%ac11%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第11話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e5%a4%a9%e6%89%8d%e7%be%8e%e5%b0%91%e5%a5%b3%e4%b8%89%e5%a7%89%e5%a6%b9%e3%81%af%e5%b1%85%e5%80%99%e3%81%ab%e3%81%a0%e3%81%91%e3%81%a1%e3%82%87%e3%82%8d%e5%8f%af%e6%84%9b%e3%81%84%e3%80%82-raw/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2025/08/image_68a7ecb0362f5.png" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="天才美少女三姉妹は居候にだけちょろ可愛い。 (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e5%a4%a9%e6%89%8d%e7%be%8e%e5%b0%91%e5%a5%b3%e4%b8%89%e5%a7%89%e5%a6%b9%e3%81%af%e5%b1%85%e5%80%99%e3%81%ab%e3%81%a0%e3%81%91%e3%81%a1%e3%82%87%e3%82%8d%e5%8f%af%e6%84%9b%e3%81%84%e3%80%82-raw/" rel="bookmark">天才美少女三姉妹は居候にだけちょろ可愛い。 (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%ad%e3%83%9e%e3%83%b3%e3%82%b9/">ロマンス</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%8f%e3%83%bc%e3%83%ac%e3%83%a0/">ハーレム</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%82%b3%e3%83%a1%e3%83%87%e3%82%a3/">コメディ</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%a4%a9%e6%89%8d%e7%be%8e%e5%b0%91%e5%a5%b3%e4%b8%89%e5%a7%89%e5%a6%b9%e3%81%af%e5%b1%85%e5%80%99%e3%81%ab%e3%81%a0%e3%81%91%e3%81%a1%e3%82%87%e3%82%8d%e5%8f%af%e6%84%9b%e3%81%84%e3%80%82-4/"><i class="bi bi-file-earmark-text-fill"></i> 第4話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%a4%a9%e6%89%8d%e7%be%8e%e5%b0%91%e5%a5%b3%e4%b8%89%e5%a7%89%e5%a6%b9%e3%81%af%e5%b1%85%e5%80%99%e3%81%ab%e3%81%a0%e3%81%91%e3%81%a1%e3%82%87%e3%82%8d%e5%8f%af%e6%84%9b%e3%81%84%e3%80%82-3/"><i class="bi bi-file-earmark-text-fill"></i> 第3話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e5%a4%a9%e6%89%8d%e7%be%8e%e5%b0%91%e5%a5%b3%e4%b8%89%e5%a7%89%e5%a6%b9%e3%81%af%e5%b1%85%e5%80%99%e3%81%ab%e3%81%a0%e3%81%91%e3%81%a1%e3%82%87%e3%82%8d%e5%8f%af%e6%84%9b%e3%81%84%e3%80%82-2/"><i class="bi bi-file-earmark-text-fill"></i> 第2話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e3%82%a6%e3%83%a9%e3%83%9e%e3%83%b3%e3%82%ac%e3%83%bc%e3%83%ab-%ef%bd%9e%e7%a7%81%e3%80%81%e5%a5%b3%e5%ad%90%e9%ab%98%e7%94%9f%e3%81%a0%e3%81%91%e3%81%a9%e8%a3%8f%e7%a4%be%e4%bc%9a%e3%81%a7%e9%ba%bb/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2020/12/image_68a7ebaa37e73.png" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="ウラマンガール ～私、女子高生だけど裏社会で麻雀してます～ (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e3%82%a6%e3%83%a9%e3%83%9e%e3%83%b3%e3%82%ac%e3%83%bc%e3%83%ab-%ef%bd%9e%e7%a7%81%e3%80%81%e5%a5%b3%e5%ad%90%e9%ab%98%e7%94%9f%e3%81%a0%e3%81%91%e3%81%a9%e8%a3%8f%e7%a4%be%e4%bc%9a%e3%81%a7%e9%ba%bb/" rel="bookmark">ウラマンガール ～私、女子高生だけど裏社会で麻雀してます～ (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%9f%e3%82%b9%e3%83%86%e3%83%aa%e3%83%bc/">ミステリー</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%89%e3%83%a9%e3%83%9e/">ドラマ</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%82%a6%e3%83%a9%e3%83%9e%e3%83%b3%e3%82%ac%e3%83%bc%e3%83%ab-%ef%bd%9e%e7%a7%81%e3%80%81%e5%a5%b3%e5%ad%90%e9%ab%98%e7%94%9f%e3%81%a0%e3%81%91%e3%81%a9%e8%a3%8f%e7%a4%be%e4%bc%9a%e3%81%a7-14/"><i class="bi bi-file-earmark-text-fill"></i> 第14話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%82%a6%e3%83%a9%e3%83%9e%e3%83%b3%e3%82%ac%e3%83%bc%e3%83%ab-%ef%bd%9e%e7%a7%81%e3%80%81%e5%a5%b3%e5%ad%90%e9%ab%98%e7%94%9f%e3%81%a0%e3%81%91%e3%81%a9%e8%a3%8f%e7%a4%be%e4%bc%9a%e3%81%a7-13/"><i class="bi bi-file-earmark-text-fill"></i> 第13話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e3%82%a6%e3%83%a9%e3%83%9e%e3%83%b3%e3%82%ac%e3%83%bc%e3%83%ab-%ef%bd%9e%e7%a7%81%e3%80%81%e5%a5%b3%e5%ad%90%e9%ab%98%e7%94%9f%e3%81%a0%e3%81%91%e3%81%a9%e8%a3%8f%e7%a4%be%e4%bc%9a%e3%81%a7-12/"><i class="bi bi-file-earmark-text-fill"></i> 第12話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e6%8d%a8%e3%81%a6%e3%82%89%e3%82%8c%e6%89%8d%e5%a5%b3%e3%81%af%e5%ae%b6%e6%97%8f%e3%81%a8%e3%81%ae%e3%82%93%e3%81%b3%e3%82%8a%e7%94%9f%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97%e3%81%be/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2025/09/006645_001_01_0001.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="捨てられ才女は家族とのんびり生きることにします (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e6%8d%a8%e3%81%a6%e3%82%89%e3%82%8c%e6%89%8d%e5%a5%b3%e3%81%af%e5%ae%b6%e6%97%8f%e3%81%a8%e3%81%ae%e3%82%93%e3%81%b3%e3%82%8a%e7%94%9f%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97%e3%81%be/" rel="bookmark">捨てられ才女は家族とのんびり生きることにします (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e5%b0%91%e5%a5%b3/">少女</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e7%95%b0%e4%b8%96%e7%95%8c/">異世界</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bc/">ファンタジー</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e6%8d%a8%e3%81%a6%e3%82%89%e3%82%8c%e6%89%8d%e5%a5%b3%e3%81%af%e5%ae%b6%e6%97%8f%e3%81%a8%e3%81%ae%e3%82%93%e3%81%b3%e3%82%8a%e7%94%9f%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97-27/"><i class="bi bi-file-earmark-text-fill"></i> 第7.3話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e6%8d%a8%e3%81%a6%e3%82%89%e3%82%8c%e6%89%8d%e5%a5%b3%e3%81%af%e5%ae%b6%e6%97%8f%e3%81%a8%e3%81%ae%e3%82%93%e3%81%b3%e3%82%8a%e7%94%9f%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97-26/"><i class="bi bi-file-earmark-text-fill"></i> 第7.2話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e6%8d%a8%e3%81%a6%e3%82%89%e3%82%8c%e6%89%8d%e5%a5%b3%e3%81%af%e5%ae%b6%e6%97%8f%e3%81%a8%e3%81%ae%e3%82%93%e3%81%b3%e3%82%8a%e7%94%9f%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97-25/"><i class="bi bi-file-earmark-text-fill"></i> 第7.1話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+                    <div class="col-sm-6">
+                <div class="entry-tag">
+        <div class="row g-3">
+        <div class="col-5">
+            <a href="https://rawlazy.io/manga-lazy/%e4%b8%83%e9%99%90%e7%9b%ae%e3%81%af%e5%bf%8d%e8%80%85%e4%bf%ae%e8%a1%8c%e3%81%a7%e3%81%99%ef%bc%81-raw-free/" class="thumb shadow-sm rounded overflow-hidden">
+                <img loading="lazy" src="https://rawlazy.io/wp-content/uploads/2025/10/007122_001_01_0001.jpg" alt="...">
+            </a>
+        </div>
+        <div class="col">
+            <div class="vstack h-100">
+                <h2 class="name mb-2 font-11x lh-12 font-semi-bold max-3-lines" title="七限目は忍者修行です！ (Raw – Free)"><a href="https://rawlazy.io/manga-lazy/%e4%b8%83%e9%99%90%e7%9b%ae%e3%81%af%e5%bf%8d%e8%80%85%e4%bf%ae%e8%a1%8c%e3%81%a7%e3%81%99%ef%bc%81-raw-free/" rel="bookmark">七限目は忍者修行です！ (Raw – Free)</a></h2>
+                <div class="d-flex flex-wrap gap-2 mb-3">
+                                                    <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e3%82%ae%e3%83%a3%e3%82%b0%e3%83%bb%e3%82%b3%e3%83%a1%e3%83%87%e3%82%a3/">ギャグ・コメディ</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e5%b0%91%e5%b9%b4/">少年</a></h3>
+                                                            <h3 class="font-8x d-inline-block"><a href="https://rawlazy.io/genres/%e6%97%a5%e5%b8%b8%e7%b3%bb/">日常系</a></h3>
+                                            </div>
+                <div class="vstack justify-content-end lh-10 text-primary">
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e4%b8%83%e9%99%90%e7%9b%ae%e3%81%af%e5%bf%8d%e8%80%85%e4%bf%ae%e8%a1%8c%e3%81%a7%e3%81%99%ef%bc%81-raw-%e3%80%90%e7%ac%ac12%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第12話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e4%b8%83%e9%99%90%e7%9b%ae%e3%81%af%e5%bf%8d%e8%80%85%e4%bf%ae%e8%a1%8c%e3%81%a7%e3%81%99%ef%bc%81-raw-%e3%80%90%e7%ac%ac11%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第11話</a></h4>
+                                            <h4 class="font-9x mb-2 pb-2" style="border-bottom: 1px dashed #eee;"><a href="https://rawlazy.io/%e4%b8%83%e9%99%90%e7%9b%ae%e3%81%af%e5%bf%8d%e8%80%85%e4%bf%ae%e8%a1%8c%e3%81%a7%e3%81%99%ef%bc%81-raw-%e3%80%90%e7%ac%ac10%e8%a9%b1%e3%80%91/"><i class="bi bi-file-earmark-text-fill"></i> 第10話</a></h4>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+            </div>
