@@ -24,11 +24,19 @@ jobs:
         uses: gradle/gradle-build-action@v3
 
       - name: Build with Gradle
-        run: gradle :rawlazy:assembleDebug
+        run: |
+          gradle clean
+          gradle :rawlazy:assembleDebug
+          gradle :rawlazy:assembleRelease
+
+      - name: List build outputs
+        run: ls -la src/ja/rawlazy/build/outputs/apk/ || true
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: rawlazy-extension
-          path: src/ja/rawlazy/build/outputs/apk/debug/*.apk
+          path: |
+            src/ja/rawlazy/build/outputs/apk/debug/*.apk
+            src/ja/rawlazy/build/outputs/apk/release/*.apk
           retention-days: 30
