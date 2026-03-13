@@ -20,21 +20,11 @@ jobs:
           java-version: '17'
           distribution: 'adopt'
 
-      - name: Make gradlew executable
-        run: chmod +x ./gradlew
-
-      - name: Download Gradle
-        run: |
-          if [ ! -f "gradle/wrapper/gradle-wrapper.jar" ]; then
-            mkdir -p gradle/wrapper
-            curl -s -L "https://services.gradle.org/distributions/gradle-8.10-bin.zip" -o gradle/wrapper/gradle.zip
-            unzip -q gradle/wrapper/gradle.zip -d gradle
-            cp gradle/gradle-8.10/lib/gradle-wrapper.jar gradle/wrapper/
-            rm -rf gradle/gradle-8.10 gradle/wrapper/gradle.zip
-          fi
+      - name: Setup Gradle
+        uses: gradle/gradle-build-action@v3
 
       - name: Build with Gradle
-        run: ./gradlew assembleDebug
+        run: gradle assembleDebug
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
