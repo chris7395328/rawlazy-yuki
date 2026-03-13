@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RawLazy Mihon Extension
 
 这是一个为 Mihon (原 Tachiyomi) 开发的 RawLazy 漫画源插件。
@@ -82,3 +83,6 @@ rawlazy/
 ✅ **当前状态**：插件功能完整！可以正常使用了！
 
 祝你使用愉快！📚
+=======
+# rawlazy-yuki
+>>>>>>> b8649fbc95e635a496a321e1b403786843c3600d
