@@ -16,7 +16,7 @@ repositories {
     maven { url = "https://jitpack.io" }
 }
 
-apply plugin: 'com.android.library'
+apply plugin: 'com.android.application'
 apply plugin: 'org.jetbrains.kotlin.android'
 
 android {
@@ -26,6 +26,8 @@ android {
     defaultConfig {
         minSdk = 21
         targetSdk = 34
+        versionCode = 1
+        versionName = "1.0"
     }
 
     buildTypes {
