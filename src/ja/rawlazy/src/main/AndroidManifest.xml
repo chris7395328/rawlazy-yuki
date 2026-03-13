@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="eu.kanade.tachiyomi.extension.ja.rawlazy">
+    package="eu.kanade.tachiyomi.extension.ja.rawlazy"
+    android:versionCode="151"
+    android:versionName="1.5.1">
     <application>
         <meta-data
             android:name="eu.kanade.tachiyomi.extension"
@@ -16,6 +18,6 @@
             android:value="1" />
         <meta-data
             android:name="eu.kanade.tachiyomi.extension.version"
-            android:value="1.0" />
+            android:value="1.5.1" />
     </application>
 </manifest>
