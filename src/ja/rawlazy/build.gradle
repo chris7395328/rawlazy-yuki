@@ -9,10 +9,13 @@ buildscript {
     }
 }
 
-plugins {
-    id("com.android.library")
-    id("org.jetbrains.kotlin.android")
+repositories {
+    google()
+    mavenCentral()
 }
+
+apply plugin: 'com.android.library'
+apply plugin: 'org.jetbrains.kotlin.android'
 
 android {
     namespace = "eu.kanade.tachiyomi.extension.ja.rawlazy"
