@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="eu.kanade.tachiyomi.extension.ja.rawlazy"
-    android:versionCode="151"
-    android:versionName="1.5.1">
+    package="eu.kanade.tachiyomi.extension.ja.rawlazy">
     <application>
         <meta-data
-            android:name="eu.kanade.tachiyomi.extension"
-            android:value="1" />
+            android:name="tachiyomi.extension.class"
+            android:value="eu.kanade.tachiyomi.extension.ja.rawlazy.RawLazy" />
         <meta-data
-            android:name="eu.kanade.tachiyomi.extension.name"
+            android:name="tachiyomi.extension.name"
             android:value="RawLazy" />
         <meta-data
-            android:name="eu.kanade.tachiyomi.extension.lang"
+            android:name="tachiyomi.extension.lang"
             android:value="ja" />
         <meta-data
-            android:name="eu.kanade.tachiyomi.extension.code"
+            android:name="tachiyomi.extension.version"
+            android:value="1.5.1" />
+        <meta-data
+            android:name="tachiyomi.extension.code"
             android:value="1" />
         <meta-data
-            android:name="eu.kanade.tachiyomi.extension.version"
-            android:value="1.5.1" />
+            android:name="tachiyomi.extension.libVersion"
+            android:value="1.3" />
     </application>
 </manifest>
