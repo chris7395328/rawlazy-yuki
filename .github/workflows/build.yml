@@ -29,11 +29,12 @@ jobs:
           ls -la src/ja/rawlazy/ || true
           ls -la src/ja/rawlazy/src/ || true
 
-      - name: Build with Gradle
+      - name: Build with Gradle (full debug)
         run: |
-          gradle clean --info
-          gradle :rawlazy:assembleDebug --stacktrace
-          gradle :rawlazy:assembleRelease --stacktrace
+          gradle clean --full-stacktrace
+          gradle :rawlazy:tasks
+          gradle :rawlazy:assembleDebug --full-stacktrace --info
+          gradle :rawlazy:assembleRelease --full-stacktrace --info
 
       - name: List all build outputs
         run: |
