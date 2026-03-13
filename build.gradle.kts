@@ -1,7 +1,13 @@
 plugins {
-    id("com.android.application")
-    id("kotlin-android")
-    id("kotlin-parcelize")
+    id("com.android.application") version "8.5.0"
+    id("org.jetbrains.kotlin.android") version "1.9.23"
+    id("kotlin-parcelize") version "1.9.23"
+}
+
+repositories {
+    google()
+    mavenCentral()
+    maven { url = uri("https://jitpack.io") }
 }
 
 android {
@@ -34,6 +40,12 @@ android {
 
     kotlinOptions {
         jvmTarget = "17"
+    }
+}
+
+configurations {
+    compileOnly {
+        extendsFrom(configurations.annotationProcessor.get())
     }
 }
 
