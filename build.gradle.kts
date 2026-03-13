@@ -1,7 +1,6 @@
 plugins {
     id("com.android.application") version "8.5.0"
     id("org.jetbrains.kotlin.android") version "1.9.23"
-    id("kotlin-parcelize") version "1.9.23"
 }
 
 repositories {
