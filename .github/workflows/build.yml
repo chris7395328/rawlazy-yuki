@@ -23,20 +23,30 @@ jobs:
       - name: Setup Gradle
         uses: gradle/gradle-build-action@v3
 
+      - name: List project structure
+        run: |
+          ls -la
+          ls -la src/ja/rawlazy/ || true
+          ls -la src/ja/rawlazy/src/ || true
+
       - name: Build with Gradle
         run: |
-          gradle clean
-          gradle :rawlazy:assembleDebug
-          gradle :rawlazy:assembleRelease
+          gradle clean --info
+          gradle :rawlazy:assembleDebug --stacktrace
+          gradle :rawlazy:assembleRelease --stacktrace
 
-      - name: List build outputs
-        run: ls -la src/ja/rawlazy/build/outputs/apk/ || true
+      - name: List all build outputs
+        run: |
+          echo "=== All build outputs ==="
+          find . -name "*.apk" 2>/dev/null || true
+          find . -type d -name "apk" 2>/dev/null || true
+          echo "=== src/ja/rawlazy/build ==="
+          ls -laR src/ja/rawlazy/build/ 2>/dev/null || true
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: rawlazy-extension
           path: |
-            src/ja/rawlazy/build/outputs/apk/debug/*.apk
-            src/ja/rawlazy/build/outputs/apk/release/*.apk
+            **/*.apk
           retention-days: 30
